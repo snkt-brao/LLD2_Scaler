@@ -1,0 +1,1 @@
+# Teaching git push to friend
