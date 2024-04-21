@@ -79,5 +79,7 @@ public class QueryBuilder {
         public void setOrderBy(String orderBy) {
             this.orderBy = orderBy;
         }
+
+
     }
 }

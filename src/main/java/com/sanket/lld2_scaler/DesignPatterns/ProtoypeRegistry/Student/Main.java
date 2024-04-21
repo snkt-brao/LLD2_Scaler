@@ -1,4 +1,4 @@
-package com.sanket.lld2_scaler.DesignPatterns.ProtoypeRegistry;
+package com.sanket.lld2_scaler.DesignPatterns.ProtoypeRegistry.Student;
 
 public class Main {
     public static void main(String[] args) {
@@ -11,4 +11,7 @@ public class Main {
         IntelligentStudent intelligentStudentCopy = intelligentStudent.clone();
         intelligentStudentCopy.setFirstName("somename");
     }
+
+
+
 }

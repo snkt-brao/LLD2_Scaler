@@ -1,4 +1,4 @@
-package com.sanket.lld2_scaler.DesignPatterns.ProtoypeRegistry;
+package com.sanket.lld2_scaler.DesignPatterns.ProtoypeRegistry.Student;
 
 public class IntelligentStudent extends Student {
     private double psp;
